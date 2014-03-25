@@ -1,4 +1,4 @@
 pruebaRep
 =========
 
-Repositorio para hacer pruebas
+Repositorio para hacer pruebas.
